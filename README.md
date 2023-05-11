@@ -67,3 +67,7 @@ An article has four fields
 - creator [Mandatory]
 - comment [Optional]
 - id [Added automatically by default, no need to specify]
+
+## Report
+
+I created the project fairly easily as I am well aquainted and conversant with django and djangorestframework. I didn't experience any difficulty during the course of this project development, as this is not the first time I will be building this type of application
