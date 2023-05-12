@@ -18,7 +18,7 @@ A simple CRUD API with Django and DjangoRestFramework
 
 - Run 'pip install venv'
 
-- Run 'python-3 venv env'
+- Run 'python -m venv env'
 
 - For Windows run '\env\Scripts\activate'
 
@@ -28,9 +28,9 @@ A simple CRUD API with Django and DjangoRestFramework
 
 - open settings.py in the Articles Folder
 
-- scroll to Database section and set database name, port, user and password as per local postgresSQl setting
+- scroll to Database section and set database name, port, user and password as per local postgresSQl setting or leave it to default hosted database
 
-- Run 'python manage.py makemigrations'
+- Run 'python manage.py makemigrations Management'
 
 - Run 'python manage.py migrate'
 
