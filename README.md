@@ -1,4 +1,4 @@
-# Articles
+# Articles WEb Application
 
 A simple CRUD API with Django and DjangoRestFramework
 
