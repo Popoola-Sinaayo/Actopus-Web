@@ -8,7 +8,9 @@ A simple CRUD API with Django and DjangoRestFramework
 
 - Clone the repository
 
-- Open the actopus-backend folder
+- Open the folder with any IDE of your choice
+
+- Launch your terminal and change directory to octopus-backend-folder
 
 - Download Python ('<https://www.python.org/downloads/>') if not downloaded
 
